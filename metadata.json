@@ -1,0 +1,6 @@
+{
+  "name": "مسابقة التحدي التفاعلية",
+  "description": "تطبيق مسابقات تفاعلي مباشر متعدد اللاعبين باللغة العربية مع لوحة تحكم المضيف ونظام النقاط والسرعة وتتويج الفائزين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
